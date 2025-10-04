@@ -61,7 +61,7 @@ Install them with:
 
 pip install numpy pandas matplotlib scikit-learn mlxtend
 
-🔮 Future Work
+# 🔮 Future Work
 
 1. Deploy the model using Flask/FastAPI/Streamlit for a web app
 2. Improve accuracy with hyperparameter tuning
